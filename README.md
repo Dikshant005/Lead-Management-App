@@ -39,7 +39,7 @@ Before running the app, ensure you have the following installed:
 ### Installation Steps
 
 **1. Clone the Repository**
-git clone https://github.com/Dikshant005/lead_manager.git
+git clone https://github.com/Dikshant005/Lead-Management-App.git
 cd lead_manager
 
 **2. Install Dependencies**
