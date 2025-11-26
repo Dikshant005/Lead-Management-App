@@ -3,6 +3,9 @@
 ## 📱 App Overview
 
 **Mini Lead Manager** is a CRM-style mobile application built with Flutter for managing sales leads and customer contacts. The app allows users to efficiently track leads through their entire lifecycle—from initial contact to conversion or loss.
+### Video
+
+[🎬 Watch the video](https://github.com/user-attachments/assets/a5f80d04-7972-4b81-b65d-7329294e02d7)
 
 ### Key Features
 
